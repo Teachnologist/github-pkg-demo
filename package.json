@@ -1,7 +1,7 @@
 {
   "name": "@teachnologist/github-pkg-demo",
   "repository": {
-        "url": "git@github.com:Teachnologist/github-pkg-demo.git"
+        "url": "git://github.com/Teachnologist/github-pkg-demo.git"
     },
   "version": "1.0.0",
   "description": "",
